@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "jsx": "react",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "module": "esnext",
+      "target": "esnext",
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "sourceMap": true,
+      "strict": true,
+      "noImplicitAny": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true,
+      "strictNullChecks": false
+    },
+    "include": ["src"]
+  }
